@@ -10,7 +10,7 @@
 <img align="left" alt="andersonpgs" src="https://raw.githubusercontent.com/AndersonPGS/AndersonPGS/main/imgs/main2.png"  height="300" />
 
 <h3>About me</h3>
-<p>My name is Anderson Paiva, I live in Bahia - Brazil, I am in the third semester of the Faculty of Analysis and Systems Development. I work as a freelancer but I'm looking for new job opportunities.</p>
+<p>My name is Anderson Paiva, I'm 19 years old and I live in Bahia - Brazil, I am in the third semester of the Faculty of Analysis and Systems Development. I work as a freelancer but I'm looking for new job opportunities.</p>
 <h4> I'm currently: </h4>
 <p>🎓 Studying at faculty of Analysis and Systems Development</p>
 <p>💻 Front End Developer</p>
