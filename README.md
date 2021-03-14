@@ -32,8 +32,8 @@
 <a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-NextJS-231f20?style=flat-square&logo=Next.js&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
 
 <a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-Figma-231f20?style=flat-square&logo=Figma&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
-<a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-Adobe%20XD-231f20?style=flat-square&logo=Adobe XD&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
-<a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-Adobe%20Photoshop-231f20?style=flat-square&logo=Adobe Photoshop&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
+<a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-AdobeXD-231f20?style=flat-square&logo=Adobe XD&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
+<a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-AdobePhotoshop-231f20?style=flat-square&logo=Adobe Photoshop&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
 
 <br/>
 <br/>
