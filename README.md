@@ -46,6 +46,27 @@ I am open to new proposals and opportunities.</p>
 <br/>
 <q> Knowledge enthusiast | Always in search of new Discoveries and Challenges </q>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<details>
+    <summary> Language Statistics...</summary><br/>
+    <p align="center">
+        <img src="https://wakatime.com/share/@AndersonPGS/14ad69d1-06e9-4a77-82f2-650d6ecb0c92.svg" height="400"/>
+    </p>
+</details>
+<details>
+    <summary> Github Statistics...</summary>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=andersonpgs&show_icons=true"/>
+    </p>
+</details>
 
 <!-- 
 
