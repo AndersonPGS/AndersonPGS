@@ -1,10 +1,10 @@
 <h1 align="center"><img align="top" src = "https://raw.githubusercontent.com/AndersonPGS/AndersonPGS/main/imgs/gif.gif" width = "35px"> Anderson Paiva</h1>
 
 <h1 align="center">
-    <img src="https://img.shields.io/badge/-Hotmail-231f20?style=flat-square&logo=Windows&logoColor=00e073&link=mailto:andersonpgs.contato@hotmail.com" alt="Anderson Paiva email">
-    <img src="https://img.shields.io/badge/-Linkedin-231f20?style=flat-square&logo=Linkedin&logoColor=00e073&link=https://www.linkedin.com/in/andersonpgs/" alt="Anderson Paiva linkedin">
-    <img src="https://img.shields.io/badge/-Portfolio-231f20?style=flat-square&logo=Vercel&logoColor=00e073&link=https://andersonpgs.vercel.app/" alt="Anderson Paiva portfolio">
-    <img src="https://img.shields.io/badge/-Anderson%20Paiva%230221-231f20?style=flat-square&logo=Discord&logoColor=00e073&link=https://discord.gg/BNWDHq" alt="Anderson Paiva discord">
+    <a href="mailto:andersonpgs.contato@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Hotmail-231f20?style=flat-square&logo=Windows&logoColor=00e073&link=mailto:andersonpgs.contato@hotmail.com" alt="Anderson Paiva email"></a>
+    <a href="https://www.linkedin.com/in/andersonpgs/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-231f20?style=flat-square&logo=Linkedin&logoColor=00e073&link=https://www.linkedin.com/in/andersonpgs/" alt="Anderson Paiva linkedin"></a>
+    <a href="https://andersonpgs.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-231f20?style=flat-square&logo=Vercel&logoColor=00e073&link=https://andersonpgs.vercel.app/" alt="Anderson Paiva portfolio"></a>
+    <a href="https://discord.gg/BNWDHq" target="_blank"><img src="https://img.shields.io/badge/-Anderson%20Paiva%230221-231f20?style=flat-square&logo=Discord&logoColor=00e073&link=https://discord.gg/BNWDHq" alt="Anderson Paiva discord"></a>
 </h1>
 
 <img align="left" alt="andersonpgs" src="https://raw.githubusercontent.com/AndersonPGS/AndersonPGS/main/imgs/main2.png"  height="300" />
