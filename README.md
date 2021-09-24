@@ -33,7 +33,7 @@
 
 <a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-Figma-231f20?style=flat-square&logo=Figma&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
 <a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-Adobe XD-231f20?style=flat-square&logo=AdobeXD&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
-<a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-Adobe Photoshop-231f20?style=flat-square&logo=Photoshop&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
+<a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-Adobe Photoshop-231f20?style=flat-square&logo=Photoshop&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS/)"/></a>
 
 <br/>
 <br/>
