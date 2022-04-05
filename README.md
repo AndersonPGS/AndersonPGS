@@ -11,7 +11,7 @@
 <img align="left" alt="andersonpgs" src="https://raw.githubusercontent.com/AndersonPGS/AndersonPGS/main/imgs/main2.png"  height="315" />
 
 <h3>Sobre mim</h3>
-<p>Meu nome é Anderson Paiva, tenho 20 anos e moro na Bahia - Brasil, sou formado em Análise e Desenvolvimento de Sistemas mas sou apaixonado por desenvolvimento Front End. Estou a procura de oportunidades de trabalho.</p>
+<p>Meu nome é Anderson Paiva, tenho 20 anos, sou formado em Análise e Desenvolvimento de Sistemas mas sou apaixonado por desenvolvimento Front End. Estou a procura de oportunidades de trabalho.</p>
 <h4> Atualmente: </h4>
 <p>💻 Desenvolvedor Front End</p>
 <p>🎨 Designer</p>
@@ -19,7 +19,7 @@
 <details>
     <summary> <strong>English Translation</strong></summary><br/>
     <h3>About me</h3>
-    <p>My name is Anderson Paiva, I'm 20 years old and I live in Bahia - Brazil, I have a degree in Systems Analysis and Development but I'm passionate about Front End development. I'm looking for job opportunities.</p>
+    <p>My name is Anderson Paiva, I'm 20 years old, I have a degree in Systems Analysis and Development but I'm passionate about Front End development. I'm looking for job opportunities.</p>
     <h4> I'm currently: </h4>
     <p>💻 Front End Developer</p>
     <p>🎨 Designer</p>
