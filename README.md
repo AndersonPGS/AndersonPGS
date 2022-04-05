@@ -39,10 +39,12 @@
 <a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-231f20?style=flat-square&logo=javascript&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
 <a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-ReactJS-231f20?style=flat-square&logo=react&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
 <a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-NextJS-231f20?style=flat-square&logo=Next.js&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
+<a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-Sass-231f20?style=flat-square&logo=sass&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
+<a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-StyledComponents-231f20?style=flat-square&logo=styledcomponents&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
 
 <a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-Figma-231f20?style=flat-square&logo=Figma&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
 <a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-Adobe XD-231f20?style=flat-square&logo=AdobeXD&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
-<a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-Adobe Photoshop-231f20?style=flat-square&logo=Photoshop&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS/)"/></a>
+<a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-Adobe Photoshop-231f20?style=flat-square&logo=adobephotoshop&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS/)"/></a>
 <details>
     <summary> <strong>English Translation</strong></summary><br/>
     <h3>Languages and tools</h3>
@@ -53,10 +55,12 @@
 <a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-231f20?style=flat-square&logo=javascript&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
 <a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-ReactJS-231f20?style=flat-square&logo=react&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
 <a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-NextJS-231f20?style=flat-square&logo=Next.js&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
+<a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-Sass-231f20?style=flat-square&logo=sass&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
+<a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-StyledComponents-231f20?style=flat-square&logo=styledcomponents&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
 
 <a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-Figma-231f20?style=flat-square&logo=Figma&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
 <a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-Adobe XD-231f20?style=flat-square&logo=AdobeXD&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS)"/></a>
-<a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-Adobe Photoshop-231f20?style=flat-square&logo=Photoshop&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS/)"/></a>
+<a href="https://github.com/AndersonPGS" target="_blank"><img src="https://img.shields.io/badge/-Adobe Photoshop-231f20?style=flat-square&logo=adobephotoshop&link=https://github.com/AndersonPGS)](https://github.com/AndersonPGS/)"/></a>
 </details>
 <br/>
 <br/>
