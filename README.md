@@ -101,6 +101,8 @@ I am open to new proposals and opportunities.</p>
     </p>
 </details>
 
+<a href="https://github.com/andersonpgs"><img src="https://github.com/AndersonPGS/AndersonPGS/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+
 <!-- 
 
 The illustrations were taken from the following websites:
