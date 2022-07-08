@@ -1,4 +1,4 @@
-<h1 align="center"><img align="top" src = "https://raw.githubusercontent.com/AndersonPGS/AndersonPGS/main/imgs/gif.gif" width = "35px"> Anderson Paiva</h1>
+<h1 align="center"><img align="top" src = "https://raw.githubusercontent.com/AndersonPGS/AndersonPGS/main/imgs/gif.gif" width="35px" height="35px"> Anderson Paiva</h1>
 
 <h1 align="center">
     <a href="mailto:andersonpgs.contato@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/--231f20?style=flat-square&logo=Windows&logoColor=00e073&link=mailto:andersonpgs.contato@hotmail.com" alt="Anderson Paiva email"></a>
