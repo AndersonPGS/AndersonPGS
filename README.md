@@ -11,7 +11,7 @@
 <img align="left" alt="andersonpgs" src="https://raw.githubusercontent.com/AndersonPGS/AndersonPGS/main/imgs/main2.png"  height="315" />
 
 <h3>Sobre mim</h3>
-<p>Meu nome é Anderson Paiva, tenho 20 anos, sou formado em Análise e Desenvolvimento de Sistemas mas sou apaixonado por desenvolvimento Front End. Estou a procura de oportunidades de trabalho.</p>
+<p>Meu nome é Anderson Paiva, tenho 21 anos, sou formado em Análise e Desenvolvimento de Sistemas mas sou apaixonado por desenvolvimento Front End. Estou a procura de oportunidades de trabalho.</p>
 <h4> Atualmente: </h4>
 <p>💻 Desenvolvedor Front End</p>
 <p>🎨 Designer</p>
