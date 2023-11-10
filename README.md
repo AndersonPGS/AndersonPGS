@@ -3,7 +3,7 @@
 <h1 align="center">
     <a href="mailto:andersonpgs.contato@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/--231f20?style=flat-square&logo=Windows&logoColor=00e073&link=mailto:andersonpgs.contato@hotmail.com" alt="Anderson Paiva email"></a>
     <a href="https://www.linkedin.com/in/andersonpgs/" target="_blank"><img src="https://img.shields.io/badge/--231f20?style=flat-square&logo=Linkedin&logoColor=00e073&link=https://www.linkedin.com/in/andersonpgs/" alt="Anderson Paiva linkedin"></a>
-    <a href="https://andersonpgs.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/--231f20?style=flat-square&logo=aboutdotme&logoColor=00e073&link=https://andersonpgs.vercel.app/" alt="Anderson Paiva portfolio"></a>
+    <a href="https://www.apgs.cloud/dev" target="_blank"><img src="https://img.shields.io/badge/--231f20?style=flat-square&logo=aboutdotme&logoColor=00e073&link=https://andersonpgs.vercel.app/" alt="Anderson Paiva portfolio"></a>
     <a href="https://app.rocketseat.com.br/me/andersonpgs" target="_blank"><img src="https://img.shields.io/badge/--231f20?style=flat-square&logo=apacherocketmq&logoColor=00e073&link=https://app.rocketseat.com.br/me/andersonpgs" alt="Anderson Paiva RocketSeat"></a>
     <a href="https://discord.gg/BNWDHq" target="_blank"><img src="https://img.shields.io/badge/--231f20?style=flat-square&logo=Discord&logoColor=00e073&link=https://discord.gg/BNWDHq" alt="Anderson Paiva discord"></a>
 </h1>
@@ -100,10 +100,17 @@ I am open to new proposals and opportunities.</p>
         <img src="https://github-readme-stats.vercel.app/api?username=andersonpgs&show_icons=true"/>
     </p>
 </details>
+<details>
+    <summary> Did you like my work?</summary>
+    <p>
+	<p>Consider buying me a coffee.</p>
+	<p>
+		<a href="https://www.buymeacoffee.com/paiva" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+	</p>
+    </p>
+</details>
 
 <a href="https://github.com/andersonpgs"><img src="https://github.com/AndersonPGS/AndersonPGS/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"></a>
-
-
 <!-- 
 
 The illustrations were taken from the following websites:
