@@ -105,7 +105,7 @@ I am open to new proposals and opportunities.</p>
     <p>
 	<p>Consider buying me a coffee.</p>
 	<p>
-		<a href="https://www.ko-fi.com/paiva" target="_blank"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_stroke.png" alt="Buy Me A Coffee" style="height: 60px !important;" ></a>
+		<a href="https://www.ko-fi.com/paiva" target="_blank"><img src="https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_white.png" alt="Buy Me A Coffee" style="height: 60px !important;" ></a>
 	</p>
     </p>
 </details>
